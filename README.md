@@ -74,3 +74,9 @@ How to do it ?
 ## GEDCOM import
 
 To be done
+
+
+## UI
+
+- popup for all data modification (maybe except textXML in line if it is not possible to have a movable popup)
+- do not route if popup opened

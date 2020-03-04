@@ -80,3 +80,7 @@ To be done
 
 - popup for all data modification (maybe except textXML in line if it is not possible to have a movable popup)
 - do not route if popup opened
+
+## Make multi objects vievers
+Can display a list of objects to be displayed :
+ex : - multiple docs displayed and choose the want you want to see, edit. Make it possible to have full screen on the in-edition doc .

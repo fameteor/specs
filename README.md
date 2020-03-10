@@ -33,7 +33,10 @@ A filter should be available to find the persons according to their access right
 
 ### LIEU 
 
-public to everybody, but modifications are traced
+- public to everybody, but modifications are traced
+- management of LIEU types : ex : moulins ?
+- management of LIEU like la grande/petite/haute/martinière : group to be made and phonetical search
+
 
 ### DOC
 
@@ -80,6 +83,7 @@ To be done
 
 - popup for all data modification (maybe except textXML in line if it is not possible to have a movable popup)
 - do not route if popup opened
+- Fullscreen possibility for sub templates
 
 ## Make multi objects vievers
 Can display a list of objects to be displayed :

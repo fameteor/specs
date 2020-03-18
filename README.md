@@ -1,5 +1,13 @@
 # specs
 
+## Redundant Objects fusion
+
+When redundant, 2 objects may be fusionned : one will keep all properties and the second one deleted.
+
+### PERS
+
+Other object pointing towards the second one will point towards the first one
+
 ## Access rights
 
 ### PERS

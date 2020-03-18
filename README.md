@@ -2,7 +2,7 @@
 
 ## Redundant Objects fusion
 
-When redundant, 2 objects may be fusionned : one will keep all properties and the second one deleted.
+When redundant, 2 objects may be fusionned : one will keep all properties and the second one deleted. If properties are in conflicts, a choice is proposed. A possibility of fusion cancellation is proposed.
 
 ### PERS
 

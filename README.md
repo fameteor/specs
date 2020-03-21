@@ -11,6 +11,8 @@
 - `dates` : `short` or `false` (`long` could be implemented). Default is `short`.
 - `researchFlag` : `true` or `false`. Default is `true`.
 - `expandable` : `true` or `false`. Default is ``true.
+- `firstName` : `` or `all`.
+- `lastName` : `true` or `false`
 
 ## Redundant Objects fusion
 

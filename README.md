@@ -1,5 +1,11 @@
 # specs
 
+## PERS viewer
+
+- Put a filter function on the link : if filser false => no link
+- Put a callback when click on the link
+- Put a color control
+
 ## Redundant Objects fusion
 
 When redundant, 2 objects may be fusionned : one will keep all properties and the second one deleted. If properties are in conflict, a choice is proposed. A possibility of fusion cancellation is proposed.

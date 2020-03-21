@@ -5,6 +5,10 @@
 - Put a linkFilter function on the link : if linkFilter(pers) === true => no link or a `noLinkWhen` object : `{"sexe":"M"}`
 - Put a callback when click on the link
 - Put a color control
+- `sex` : `true` or `false`. Default is `true`.
+- `sosa` : `short`, `long` or `false`. Default is ``
+- `title :
+- `dates` : `short` or `false` (`long` could be implemented). Default is `short`.
 
 ## Redundant Objects fusion
 

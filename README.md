@@ -6,9 +6,11 @@
 - Put a callback when click on the link
 - Put a color control
 - `sex` : `true` or `false`. Default is `true`.
-- `sosa` : `short`, `long` or `false`. Default is ``
-- `title :
+- `sosa` : `short`, `long` or `false`. Default is `short`.
+- `title` : 
 - `dates` : `short` or `false` (`long` could be implemented). Default is `short`.
+- `researchFlag` : `true` or `false`. Default is `true`.
+- `expandable` : `true` or `false`. Default is ``true.
 
 ## Redundant Objects fusion
 

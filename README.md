@@ -9,10 +9,13 @@
 - `sosa` : `short`, `long` or `false`. Default is `short`.
 - `title` : 
 - `dates` : `short` or `false` (`long` could be implemented). Default is `short`.
-- `researchFlag` : `true` or `false`. Default is `true`.
+- `researchFlag` : `true` or `false` or `sessionVar` : depending on sessionVar status. Default is `true`.
 - `expandable` : `true` or `false`. Default is ``true.
 - `firstName` : `` or `all`.
 - `lastName` : `true` or `false`
+- `link` : `card`, `ascTree`, `descTree`, `callback`
+- `noLinkWhen` : 
+- `callback` : function when clicked and `link` parameter === `callback`
 
 ## Redundant Objects fusion
 

@@ -2,7 +2,7 @@
 
 ## PERS viewer
 
-- Put a filter function on the link : if filser false => no link
+- Put a linkFilter function on the link : if linkFilter(pers) === true => no link or a linkFilter object : `{"sexe":"M"}`
 - Put a callback when click on the link
 - Put a color control
 

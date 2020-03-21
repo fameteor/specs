@@ -16,6 +16,7 @@
 - `link` : `card`, `ascTree`, `descTree`, `callback`
 - `noLinkWhen` : 
 - `callback` : function when clicked and `link` parameter === `callback`
+- `rightClickMenu` :
 
 ## Redundant Objects fusion
 

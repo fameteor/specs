@@ -1,5 +1,15 @@
 # specs
 
+## Labels
+
+- order elements in a label
+- give specific comment for elements in a label
+
+## DOC viewer
+
+- add a link to persons in the title of DOC type "Acte notariés" for "contrats de mariage" notamment. For example, if no "title" look for links in persons.
+- add a type to "actes notariés" : contrat de mariage, inventaire après décès ...
+
 ## PERS viewer
 
 - Put a linkFilter function on the link : if linkFilter(pers) === true => no link or a `noLinkWhen` object : `{"sexe":"M"}`
